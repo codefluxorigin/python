@@ -4,7 +4,7 @@ e=float(input("enetr the marks of english="))
 p=float(input("enetr the marks of physic="))
 c=float(input("enetr the marks of chemistry="))
 b=float(input("enetr the marks of bio="))
-percentage=(((500-(m+e+p+c+b))/500)*100)
+percentage=((((m+e+p+c+b))/500)*100)
 if percentage>60:
     print("pass",percentage)
 else:
