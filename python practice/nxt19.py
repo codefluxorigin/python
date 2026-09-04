@@ -1,0 +1,6 @@
+a=float(input("enetr a number"))
+b=float(input("enetr a number"))
+s=(a**2)+(b**2)+(2*a*b)
+c=(a*a*a)+(b*b*b)+(3*a**2*b)+(3*b**2*a)
+print("square=",s)
+print("cube=",c)
