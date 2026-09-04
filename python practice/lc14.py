@@ -6,5 +6,7 @@ if a>=0:
             print("you are an elite class")
         else:
             print("not an elite class")
-    else
-            
+    else:
+        print("you areeligible for the benifits")
+else:
+    print("invalid input")            
