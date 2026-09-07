@@ -1,0 +1,8 @@
+s=int(input("enetr the number"))
+p=int(input("enetr the number"))
+a=s
+s=p
+p=a
+print(s,p)
+
+#WAP TO TAKE 5 SUBJECT MARKS AND CALCULATE THE PERCENTAGE IF PERCENTAGE IS>90 PRINT THE GRADE A+ IF THE PERCENTAGE IS BETWEEN 80TO90 GIVE THE GRADE A IF THE PERCENRAGE IS7 0 TO 80 B+  
