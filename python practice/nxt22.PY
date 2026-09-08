@@ -8,16 +8,16 @@ percentage=((((m+e+p+c+b))/500)*100)
 if percentage>90:
     print("grade A+")
 else:
-    if percentage>80 and percentage<90:
+    if percentage>=80 and percentage<90:
         print("the grade is A")
     else:
-        if percentage>70 and percentage<80:
+        if percentage>=70 and percentage<80:
             print("the grade is B+")
         else:
-            if percentage>60 and percentage<70:
+            if percentage>=60 and percentage<70:
                 print("The grade is B")
             else:
-                if percentage>50 and percentage<60:
+                if percentage>=50 and percentage<60:
                     print("thr grade is C")
                 else :
                     if percentage<50:
